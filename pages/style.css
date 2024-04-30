@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(221, 219, 193);   
+}
+
+
+
+
+
+/* headings ?] */
+h1 {
+    color:red
+}
+
+
+
+/* classes (groups)  */
+    .about {
+        color:blue;
+    }
+
+
+    .storage {
+        color:rgb(247, 190, 3);  
+    }   
+
+
+    .instructions {
+        color:green;
+    }
+
